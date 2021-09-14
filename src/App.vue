@@ -5,7 +5,7 @@
         <source src="../src/assets/desktop_video.mp4" type="video/mp4">
     </video>
 
-    <div class="absolute text-white font-extrabold text-5xl bottom-1/2 pl-10">
+    <div class="absolute text-white font-extrabold lg:text-5xl lg:bottom-1/2 bottom-3/4 text-2xl  pl-10">
       <p>ECOUTEURS SANS FIL PREMIUM</p>
       <p>(et abordables)</p>
     </div>
@@ -22,27 +22,27 @@
   </div>
 
   <div class="text-white bg-black py-10">
-    <div class="w-3/4 mx-auto ">
+    <div class="mx-auto ">
       <h2 class="text-center font-bold text-4xl">AUCUN FIL, AUCUNE LIMITE</h2>
 
-      <div class="flex justify-center pt-10">
+      <div class="flex  justify-center lg:w-3/4 lg:mx-auto pt-10 lg:px-0 px-3">
 
-        <div class="py-3 px-6">
-          <p>Plus de</p>
-          <p class="text-justify"><span class="font-bold text-6xl">18 </span>heures</p>
-          <p>d'écoute avec plusieurs recharges</p>
+        <div class="flex-1 py-3 lg:px-6 mx-2">
+          <p class="text-center lg:mb-0 mb-3">Plus de</p>
+          <p class="text-center"><span class="font-bold lg:text-6xl text-4xl">18</span> heures</p>
+          <p class="mt-2 text-center">d'écoute avec plusieurs recharges</p>
         </div>
 
-        <div class="py-3 px-5">
-          <p>Jusqu'à</p>
-          <p class="text-justify"><span class="font-bold text-6xl">4.5 </span>heures</p>
-          <p>d'écoute sur une seule charge</p>
+        <div class="flex-1 py-3 lg:px-6 mx-2">
+          <p class="text-center lg:mb-0 mb-3">Jusqu'à</p>
+          <p class="text-center"><span class="font-bold lg:text-6xl text-4xl">4.5</span> heures</p>
+          <p class="mt-2 text-center">d'écoute sur une seule charge</p>
         </div>
 
-        <div class="py-3 px-6">
-          <p class="font-bold">Autour de</p>
-          <p class="text-justify"><span class="font-bold text-6xl">50 </span>minutes</p>
-          <p>d'écoute après seulement 5 minutes  de charge</p>
+        <div class="flex-1 py-3 lg:px-6 mx-2">
+          <p class="text-center lg:mb-0 mb-3" >Autour de</p>
+          <p class="text-center"><span class="font-bold lg:text-6xl text-4xl">50</span> minutes</p>
+          <p class="mt-2 text-center">d'écoute après seulement 5 minutes  de charge</p>
         </div>
       </div>
 
@@ -62,7 +62,7 @@
           de 12.4mm vous offrant une amplification profonde et fidèle des basses. Pour vous garantir une expérience inégalée,
           les codecs AAC/SBC améliorent la qualité audio pour un son riche et détaillé.</p>
         <p class="py-3">Il faut le voir(et l'entendre) pour le croire !</p>
-        <img src="../src/assets/haute_fidelite.png" role="img">
+        <img src="../src/assets/haute_fidelite.png" alt="" role="img">
         <p class="text-justify">Chaque écouteur est équipé d’un microphone haute sensibilité qui réduit efficacement les bruits de fond,
           rendant l’appel parfaitement clair pour vous et eux, même dans des environnements bruyants.</p>
       </div>
@@ -73,23 +73,23 @@
     <div class="w-3/4 mx-auto ">
       <h2 class="text-center font-bold text-4xl">AUCUN FIL, AUCUNE LIMITE</h2>
       <img src="../src/assets/aucun_fil.png" role="img">
-      <div class="flex">
+      <div class="flex lg:flex-nowrap flex-wrap">
 
         <div class="py-3 px-6">
-          <h3 class="font-bold">CONNEXION AUTOMATIQUE</h3>
-          <p class="text-justify">Connexion instantanée et automatique (après la connexion initiale) au dernier appareil appairé dès que
+          <h3 class="font-bold text-center">CONNEXION AUTOMATIQUE</h3>
+          <p class="text-center">Connexion instantanée et automatique (après la connexion initiale) au dernier appareil appairé dès que
             vous ouvrez le boitier de charge</p>
         </div>
 
         <div class="py-3 px-5">
-          <h3 class="font-bold">COMPATIBILITÉ</h3>
-          <p class="text-justify">Compatible avec IOS et Android. Activez le Bluetooth sur votre appareil pour vous connecter. Fonctionne
+          <h3 class="font-bold text-center">COMPATIBILITÉ</h3>
+          <p class="text-center">Compatible avec IOS et Android. Activez le Bluetooth sur votre appareil pour vous connecter. Fonctionne
             avec les téléphones, tablettes et ordinateurs.</p>
         </div>
 
         <div class="py-3 px-6">
-          <h2 class="font-bold">BLUETOOTH 5.0</h2>
-          <p class="text-justify">Toute nouvelle technologie Bluetooth 5.0 offrant une connexion plus forte, plus rapide et plus stable où
+          <h2 class="font-bold text-center">BLUETOOTH 5.0</h2>
+          <p class="text-center">Toute nouvelle technologie Bluetooth 5.0 offrant une connexion plus forte, plus rapide et plus stable où
             que vous soyez</p>
         </div>
       </div>
